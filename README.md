@@ -1,4 +1,4 @@
-![avatar](/assets/python.png)
+![avatar](/assets/python_icon.png)
 
 
 # Python3_Basics
