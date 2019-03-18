@@ -62,3 +62,5 @@ urlpatterns = [
   当然你也可以在后边指定 IP 和 Port： `python manage.py runserver 127.0.0.1:8088`
 
   如果不指定刚才定义的 URL 的话，页面显示的依旧是 Django 的欢迎页，需要访问的链接是：127.0.0.2:8000/hello/，这样页面就会显示刚才 View 定义的 Hello World.
+  
+  ![视图和 URL 配置](https://github.com/Simplation/Python3_Basics/blob/master/assets/%E8%A7%86%E5%9B%BE%E5%92%8C%20URL%20%E9%85%8D%E7%BD%AE.png)
