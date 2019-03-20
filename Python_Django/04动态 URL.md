@@ -1,6 +1,6 @@
 # Django 基础教程
 
-## 动态视图和 URL
+## 动态 URL
 
 - Django 的处理请求过程
 - 动态视图和 URL
@@ -13,7 +13,7 @@
 - 1.5.视图函数返回一个 HttpResponse 对象。
 - 1.6.Django 把 HttpResponse 对象转换成正确的 HTTP 响应，得到网页。
 
-### 2、动态视图和 URL
+### 2、动态 URL
 - 2.1.在 views.py文件中编写如下代码
   
       from django.http import HttpResponse
