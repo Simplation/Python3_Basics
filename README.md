@@ -14,4 +14,4 @@
 | Python_Set    | 关于 Python Set 的相关用法         | 已完成             |
 | Python_Basic_Function| 关于 Python Set 基础函数整理| 未完善             |
 | Python_File  | 关于 Python  文件的相关用法         | 未完善             |
-| Python_TypeOfData| 关于 Python 标准数据类型        | 未完善             |
+| Python_TypeOfData| 关于 Python 标准数据类型        | 已完成             |
