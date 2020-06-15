@@ -1,6 +1,4 @@
-# Django 基础教程
-
-## 动态 URL
+# Django 基础教程 - 动态 URL
 *使用正则来动态匹配 URL*
 
 - Django 的处理请求过程
